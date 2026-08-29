@@ -33,6 +33,9 @@ description: TechieMatter is a tech recruitment platform that provides an all-in
   product, and hardware roles. No public API or developer platform is documented at
   this time; this profile is maintained as an API Evangelist network company record.
 url: https://raw.githubusercontent.com/api-evangelist/techiematter/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API or developer platform is documented at this time; this profile is maintained as an API Evangelist network company record."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
